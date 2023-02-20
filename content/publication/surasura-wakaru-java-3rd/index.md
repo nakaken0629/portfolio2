@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "AWS de hajimeru infra kouchiku nyumon"
-authors: ["Kenji Nakagaki"]
-date: 2021-02-10
+title: "Surasura Wakaru Java 3rd"
+authors: ["Kenji Nakagaki", "Mitsuya Hayashi"]
+date: 2022-09-22
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-02-10
+publishDate: 2022-09-22
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,20 +19,20 @@ publication_types: ["5"]
 publication: ""
 publication_short: ""
 
-abstract: "This is an introductory book how to construct a safe and robust infrastructure on the AWS."
+abstract: "This is an introductory book on Java."
 
 # Summary. An optional shortened abstract.
-summary: "This is an introductory book how to construct a safe and robust infrastructure on the AWS."
+summary: "This is an introductory book on Java."
 
-tags: ["AWS"]
+tags: ["Java"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: publisher's site
-  url: https://www.shoeisha.co.jp/book/detail/9784798180168
+  url: https://www.shoeisha.co.jp/book/detail/9784798175638
 #  icon_pack: fab
 #   icon: twitter
 

@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "AWS de hajimeru infra kouchiku nyumon"
+title: "AWS de hajimeru infra kouchiku nyumon dai 2 han"
 authors: ["Kenji Nakagaki"]
-date: 2021-02-10
+date: 2023-01-18
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-02-10
+publishDate: 2023-01-18
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +26,13 @@ summary: "This is an introductory book how to construct a safe and robust infras
 
 tags: ["AWS"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: publisher's site
-  url: https://www.shoeisha.co.jp/book/detail/9784798180168
+  url: https://www.shoeisha.co.jp/book/detail/9784798163437
 #  icon_pack: fab
 #   icon: twitter
 
