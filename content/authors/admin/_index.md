@@ -21,7 +21,7 @@ organizations:
   - name: Freelancer
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -71,10 +71,9 @@ email: 'nakaken0629@gmail.com'
 highlight_name: true
 ---
 
-Kenji Nakagaki is a senior software engineer. 
-He has deep skills about web, mobile, server, database and network. 
+Kenji Nakagaki is a senior software engineer. He has deep skills in web, mobile, server, database, and network.
 
-He worked in a system integrator from 1998 to 2012 and some tech companies from 2012 to 2021. He returned to the same company where he had worked first time and works from 2021 to 2022. Recentlly, he is studying new technologies, such as AI, the web, etc.
+He worked as a system integrator from 1998 to 2012 and in some tech companies from 2012 to 2021. He returned to the same company where he had worked the first time and worked from 2021 to 2022. Recently, he is studying new technologies, such as AI, the web, etc.
 
 He also writes some technical books for beginners.
 
