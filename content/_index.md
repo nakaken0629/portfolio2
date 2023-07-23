@@ -25,12 +25,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title : Data Engineer
+          company : Chura DATA inc.
+          company_url : https://churadata.okinawa/
+          location : Okinawa Japan
+          date_start : '2023-07-16'
+          date_end : 
+          description : working at Nagoya remotely
         - title : A full stack Engineer
-          company : Freelancer
+          company : T-virtuoso (Freelancer)
           company_url : 
           location : Nagoya Japan
           date_start : '2023-02-01'
-          date_end : 
+          date_end : '2023-07-15'
           description : 
         - title : Engineer / Architect
           company : SCSK corporation
